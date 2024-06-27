@@ -13,7 +13,7 @@ This project aims to predict real-time traffic conditions in London using histor
 Traffic Data: Obtained from Transport for London.
 
 ### Architecture
-Describe the high-level architecture of the project, including data collection, preprocessing, model training, and dashboard visualization.
+A high-level architecture of the project, including data collection, preprocessing, model training, and dashboard visualization.
 ![Screenshot 2024-06-27 at 15 55 24](https://github.com/Emillia-rosette/Real-Time-Traffic-Prediction-Model-/assets/36535655/e37e5591-8989-4850-a28c-0b977ce562f6)
 
 
@@ -26,3 +26,17 @@ Describe the high-level architecture of the project, including data collection, 
 - Virtual Environment Tool: Use venv or virtualenv for managing virtual environments.
 
 
+### Step-by-Step Setup
+Clone the Repository:
+[here](git@github.com:Emillia-rosette/Real-Time-Traffic-Prediction-Model-.git)
+
+cd real-time-traffic-prediction
+
+
+###  Set Up a Virtual Environment:
+
+python3 -m venv venv
+source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+
+###  Install Dependencies:
+pip install -r requirements.txt
