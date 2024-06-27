@@ -12,9 +12,7 @@ This project aims to predict real-time traffic conditions in London using histor
 ### Architecture
 Describe the high-level architecture of the project, including data collection, preprocessing, model training, and dashboard visualization.
 
-+------------------+      +--------------------+      +--------------------+      +----------------------+
-| Traffic Data (TfL) | --> | Data Preprocessing | --> | Model Training (LSTM) | --> | Dashboard Visualization |
-+------------------+      +--------------------+      +--------------------+      +----------------------+
++----------------------+| Traffic Data (TfL) | --> | Data Preprocessing | --> | Model Training (LSTM) | --> | Dashboard Visualization | +----------------------+
 
 ### Data Sources
 Traffic Data: Obtained from Transport for London.
