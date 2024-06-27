@@ -34,8 +34,8 @@ cd real-time-traffic-prediction
 
 ###  Set Up a Virtual Environment:
 
-python3 -m venv venv
-source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+`python3 -m venv venv`
+`source venv/bin/activate`  # On Windows use `venv\Scripts\activate`
 
 ###  Install Dependencies:
-pip install -r requirements.txt
+`pip install -r requirements.txt`
