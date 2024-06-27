@@ -43,18 +43,19 @@ cd real-time-traffic-prediction
 
 ### Google Cloud Setup:
 
-Install Google Cloud SDK:
+#### Install Google Cloud SDK:
 Follow the installation instructions for your operating system from the Google Cloud SDK documentation(https://cloud.google.com/sdk/docs)
 
-Initialize Google Cloud SDK:
+#### Initialize Google Cloud SDK:
 `gcloud init`
 
-### Create a Google Cloud Storage Bucket:
+#### Create a Google Cloud Storage Bucket:
 `gsutil mb -l your-preferred-region gs://your-bucket-name`
 
-Set Up Service Account shown here: (https://cloud.google.com/iam/docs/service-accounts-create)
+#### Set Up Service Account shown here: (https://cloud.google.com/iam/docs/service-accounts-create)
 
-Update your data collection script to upload data to Google Cloud Storage after collection using google.cloud.storage library in Python for uploading files to Google Cloud Storage (GCS): (https://cloud.google.com/storage/docs/reference/libraries#client-libraries-usage-python)
+#### Update your data collection script to upload data to Google Cloud Storage after collection
+Use the google.cloud.storage library in Python for uploading files to Google Cloud Storage (GCS): (https://cloud.google.com/storage/docs/reference/libraries#client-libraries-usage-python)
 
 ### Run Data Collection Script
 `python data_collection.py`
