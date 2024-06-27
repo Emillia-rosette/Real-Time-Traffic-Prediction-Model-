@@ -16,23 +16,6 @@ Describe the high-level architecture of the project, including data collection, 
 | Traffic Data (TfL) | --> | Data Preprocessing | --> | Model Training (LSTM) | --> | Dashboard Visualization |
 +------------------+      +--------------------+      +--------------------+      +----------------------+
 
-### Architecture
-
-![Traffic Prediction Model Architecture](path/to/your/diagram.png)
-
-1. **Data Collection:**
-   - Traffic data obtained from Transport for London (TfL).
-
-2. **Data Preprocessing:**
-   - Cleaning, normalizing, and merging traffic data.
-
-3. **Model Training:**
-   - Training an LSTM model to predict traffic conditions.
-
-4. **Dashboard Visualization:**
-   - Visualizing real-time traffic predictions and historical data.
-
-
 ### Data Sources
 Traffic Data: Obtained from Transport for London.
 
