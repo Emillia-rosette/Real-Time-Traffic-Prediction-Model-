@@ -12,8 +12,8 @@ This project aims to predict real-time traffic conditions in London using histor
 ### Architecture
 Describe the high-level architecture of the project, including data collection, preprocessing, model training, and dashboard visualization.
 
-![Screenshot 2024-06-27 at 14 42 07](https://github.com/Emillia-rosette/Real-Time-Traffic-Prediction-Model-/assets/36535655/f27e1fec-55c8-4b39-87e9-df34b609b6f9)
-
+![Screenshot 2024-06-27 at 14 44 04](https://github.com/Emillia-rosette/Real-Time-Traffic-Prediction-Model-/assets/36535655/750431ca-8f0f-474d-a74a-7699c05f3364)
+ Link (https://miro.com/app/board/uXjVK3159MM=/?utm_source=showme&utm_campaign=cpa&utm_content=graph)
 
 ### Data Sources
 Traffic Data: Obtained from Transport for London.
