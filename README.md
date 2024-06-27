@@ -27,8 +27,7 @@ A high-level architecture of the project, including data collection, preprocessi
 
 
 ### Step-by-Step Setup
-Clone the Repository:
-[here](git@github.com:Emillia-rosette/Real-Time-Traffic-Prediction-Model-.git)
+Clone the Repository: `git clone git@github.com:Emillia-rosette/Real-Time-Traffic-Prediction-Model-.git`
 
 cd real-time-traffic-prediction
 
