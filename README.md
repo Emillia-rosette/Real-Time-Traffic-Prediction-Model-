@@ -19,7 +19,7 @@ Describe the high-level architecture of the project, including data collection, 
                                                            |
                                                            v
                                                      +-------------+
-                                                     | Dashboard   |
+                                                     | Dashboard  |
                                                      +-------------+
 
 ### Data Sources
